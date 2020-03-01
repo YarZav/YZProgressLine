@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
    s.summary = "YZProgressLine this is simple bar line to show progress"
    s.requires_arc = true
 
-   s.version = "1.0.0"
+   s.version = "1.1.0"
 
    s.author = { "Yaroslav Zavyalov" => "yaroslavzavyalov1@gmail.com" }
 
