@@ -1,8 +1,6 @@
 # YZProgressLine
 IOS framework to show progress as line. Can update start, update and finish progress.
 
-![](YZProgressLineExample.gif)
-
 ## Features
 - Swift 4.2.
 - Show simple animation to show pogress.
